@@ -1,0 +1,2 @@
+# APDSG
+基于Deepseek的python耳机控制班级监控的开源项目
